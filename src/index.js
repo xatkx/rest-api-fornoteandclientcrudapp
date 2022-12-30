@@ -3,7 +3,7 @@ import Express, { urlencoded} from "express";
 import router from "./router.js"; // rutas
 import mongoose from "mongoose";
 import cors from 'cors'
-import * as dotenv from 'dotenv'
+//import * as dotenv from 'dotenv'
 dotenv.config()
 
 //import dbMongo from "./config/db.js";
